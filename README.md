@@ -29,5 +29,5 @@
 
 
 #### 赞助声明
-本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
+本项目由 [VTEXS](https://console.vtexs.com/?affid=1544) 的「开源项目免费 VPS 计划」提供算力支持。  
 感谢 VTEXS 对开源社区的支持！
